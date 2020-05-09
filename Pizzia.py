@@ -57,7 +57,6 @@ while store_open:
             # stop loop and checkout
             checkout()
             break
-
     except:
         print('Try a valid order number')
         continue
