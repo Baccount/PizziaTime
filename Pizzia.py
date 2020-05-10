@@ -59,4 +59,4 @@ while store_open:
             break
     except:
         print('Try a valid order number')
-        break # BROKEN LOL
+        continue
